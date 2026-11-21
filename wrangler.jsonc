@@ -1,0 +1,9 @@
+{
+  "name": "croco-inviter",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-01",
+  "d1_databases": [
+    { "binding": "DB", "database_name": "croco-inviter", "database_id": "8b51e47d-d239-4cf9-bb1a-a934d3ed295e" }
+  ],
+  "observability": { "enabled": true }
+}
